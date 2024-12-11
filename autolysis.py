@@ -1,4 +1,13 @@
-
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "matplotlib",
+#     "pandas",
+#     "requests",
+#     "seaborn",
+#     "tabulate"
+# ]
+# ///
 
 # Setting up essential imports 
 
